@@ -1,6 +1,6 @@
 const Home = () => {
     return (
-        <>This is home page</>
+        <>This is React + Typescript + React Router Application</>
     )
 }
 
